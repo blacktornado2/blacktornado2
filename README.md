@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ankit Bhardwaj
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Node.js and Express.js
+- 👀 I’m interested in Full-stack web development
 - 💞️ I’m looking to collaborate MERN based web applications
 - 📫 How to reach me bhardwaj21ankit@gmail.com
 
